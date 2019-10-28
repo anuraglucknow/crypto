@@ -1,2 +1,2 @@
 # crypto
-challenges of crypto
+challenges of cryptography
